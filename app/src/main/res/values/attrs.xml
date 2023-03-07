@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="UiKitButton">
+        <attr name="uiKitButton_title" format="string"/>
+        <attr name="uiKitButton_show_arrow" format="boolean"/>
+        <attr name="uiKitButton_enabled" format="boolean"/>
+    </declare-styleable>
+
+</resources>
